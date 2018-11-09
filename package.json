@@ -1,6 +1,6 @@
 {
   "name": "@wasong/redux-connector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "connector component for react/redux applications",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,10 @@
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0"
+  },
+  "dependencies": {
+    "react": "^16.6.1",
+    "react-redux": "^5.1.0",
+    "redux": "^4.0.1"
   }
 }
