@@ -1,0 +1,31 @@
+{
+  "name": "@wasong/redux-connector",
+  "version": "0.0.1",
+  "description": "connector component for react/redux applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel index.js -d dist",
+    "publish": "npm publish --access=public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasong/redux-connector.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "connect"
+  ],
+  "author": "Andrew Song",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wasong/redux-connector/issues"
+  },
+  "homepage": "https://github.com/wasong/redux-connector#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0"
+  }
+}
