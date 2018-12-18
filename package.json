@@ -1,6 +1,6 @@
 {
   "name": "@wasong/redux-connector",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "connector component for react/redux applications",
   "main": "dist/index.js",
   "scripts": {
